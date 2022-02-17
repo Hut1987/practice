@@ -3,7 +3,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/Hut1987/practice/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk/badge.svg?branch=master"><br>
+<img src="https://github.com/Hut1987/practice/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk/badge.svg?branch=main"><br>
 
 
 
